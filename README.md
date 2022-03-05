@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="umerahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="umersyedahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="umersyedahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="umerahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[website]: https://umerahmed.com
+[website]: https://umersyedahmed.com
 [twitter]: https://twitter.com/umersyedahmed
 [instagram]: https://www.instagram.com/umerremu
 [linkedin]: https://linkedin.com/in/umer-ahmed-9516611b7/
