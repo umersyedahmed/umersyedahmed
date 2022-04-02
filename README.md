@@ -2,8 +2,8 @@
 
 ## I'm a Husband, Father, and Developer!
 
-- I'm a Front-End Developer
-- I'm currently learning React
+- I'm a Full Stack Developer
+- I'm currently learning Full Stack Web Development
 - My goal for 2022 is to learn more Web Development Technologies
 
 ### Connect with me:
