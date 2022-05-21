@@ -6,7 +6,6 @@
 ### <div align="center">I'm Umer, a Software Engineer</div>  
 
   
-  
 
 - 🔭 I’m currently working on [2SweetSisterZ](https://github.com/umersyedahmed/2sweetsisterz)  
   
