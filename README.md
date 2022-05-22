@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [2SweetSisterZ](https://github.com/umersyedahmed/2sweetsisterz)  
   
 
-- 🌱 I’m currently learning Node.js  
+- 🌱 I’m currently learning Node.js and MongoDB  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
