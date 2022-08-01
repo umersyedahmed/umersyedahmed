@@ -1,9 +1,3 @@
-<div align="center">
-<img src="https://gcdnb.pbrd.co/images/vSOsTQl044v3.png?o=1" align="center" height="" width="600" />
-</div>  
-
-
-
 ### <div align="center">I'm Umer, a Software Engineer</div>  
 
 
