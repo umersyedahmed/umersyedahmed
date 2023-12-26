@@ -1,14 +1,7 @@
 ### <div align="center">I'm Umer, a Software Engineer</div>  
 
 
-- 🔭 I’m currently working on [2SweetSisterZ](https://github.com/umersyedahmed/2sweetsisterz)  
-  
-  
-
-- 🌱 I’m currently learning Node.js and MongoDB  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MEAN stack and related technologies  
   
 
 - ⚡ Fun fact: I love spending time with my wife and daughters.   
@@ -34,7 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angular-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angular.svg" alt="Angular" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
